@@ -1,4 +1,4 @@
-# Название приложения
+# SimpleFirebaseSwiftUIApp
 
 Простое приложение с взаимодействием с Firebase.
 
